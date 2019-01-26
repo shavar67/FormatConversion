@@ -12,6 +12,8 @@
 * Hexadecimal 
 * Alphabetical 
 
+
+
 Before Conversion | After Conversion
 ----|-------
 Helloworld|01101000 01100101 01101100 01101100 01101111 01110111 01101111 01110010 01101100 01100100 
@@ -22,7 +24,7 @@ Helloworld|01101000 01100101 01101100 01101100 01101111 01110111 01101111 011100
 * To change formats i used a switch statement to get the selected Index from the combo box 
 * The custom built in email class uses the 3rd party mail api
 
-<img src="https://github.com/shavar67/FormatConversion/blob/master/email.jpg" width = "400" height = "300"  title="Email">
+
 
 ```
 if (event.getSource() == view.convert) {
@@ -40,3 +42,8 @@ int index = view.dropmenu.getSelectionModel().getSelectedIndex();
  case 3:
 }
 ```
+<p float="centered">
+  <img src="https://github.com/shavar67/FormatConversion/blob/master/mainview.jpg" width="256" />
+  <img src="https://github.com/shavar67/FormatConversion/blob/master/splashscreen.jpg" width="256" /> 
+  <img src="https://github.com/shavar67/FormatConversion/blob/master/email.jpg" width="256" />
+</p>
