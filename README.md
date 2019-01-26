@@ -22,7 +22,7 @@ Helloworld|01101000 01100101 01101100 01101100 01101111 01110111 01101111 011100
 * To change formats i used a switch statement to get the selected Index from the combo box 
 * The custom built in email class uses the 3rd party mail api
 
-<img src="https://github.com/shavar67/TwitterBot2.0/blob/master/searchByHashTag.jpg"  title="Email">
+<img src="https://github.com/shavar67/FormatConversion/blob/master/email.jpg"  title="Email">
 
 **Texfields input will always be of type string so we parse it to an int**
 ```
