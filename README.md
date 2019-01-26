@@ -66,8 +66,7 @@ stage.setOpacity(1);
 	
 ```
 
-<p float="centered">
-  <img src="https://github.com/shavar67/FormatConversion/blob/master/mainview.jpg" width="256" />
-  <img src="https://github.com/shavar67/FormatConversion/blob/master/splashscreen.jpg" width="256" /> 
-  <img src="https://github.com/shavar67/FormatConversion/blob/master/email.jpg" width="256" />
-</p>
+
+  
+  <img src="https://github.com/shavar67/FormatConversion/blob/master/email.jpg"/>
+
