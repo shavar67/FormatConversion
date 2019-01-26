@@ -42,6 +42,30 @@ int index = view.dropmenu.getSelectionModel().getSelectedIndex();
  case 3:
 }
 ```
+
+#### How to make stage transparent and draggable using the undecorated stage style 
+
+```
+private Parent createContent() {
+borderpane = new BorderPane();
+borderpane.setOnMousePressed(event -> {
+xOffset = event.getSceneX();
+yOffset = event.getSceneY();
+});
+borderpane.setOnMouseDragged(event2 -> {
+stage.setX(event2.getScreenX() - xOffset);
+stage.setY(event2.getScreenY() - yOffset);
+stage.setOpacity(0.1);
+});
+borderpane.setOnMouseReleased(defaultOpacity -> {
+stage.setOpacity(1);
+});
+borderpane.setOnMouseDragExited(source -> {
+stage.setOpacity(1);
+});
+	
+```
+
 <p float="centered">
   <img src="https://github.com/shavar67/FormatConversion/blob/master/mainview.jpg" width="256" />
   <img src="https://github.com/shavar67/FormatConversion/blob/master/splashscreen.jpg" width="256" /> 
