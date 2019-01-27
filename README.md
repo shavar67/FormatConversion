@@ -1,5 +1,4 @@
 #### BinaryFx
-* I made this application last year for my Csit 101 course (intro to data communications) to convert between different numerical formats.
 * Initially used to convert from binary to decimal and vice versa.
 * Functionality extended to support more formats.
 * Built-in bug report feature powered by gmail.
@@ -26,7 +25,7 @@ Helloworld|01101000 01100101 01101100 01101100 01101111 01110111 01101111 011100
 
 
 
-```
+``` java 
 if (event.getSource() == view.convert) {
 try {
 userInput = view.getData();
@@ -45,7 +44,7 @@ int index = view.dropmenu.getSelectionModel().getSelectedIndex();
 
 #### How to make stage transparent and draggable using the undecorated stage style 
 
-```
+``` java
 private Parent createContent() {
 borderpane = new BorderPane();
 borderpane.setOnMousePressed(event -> {
