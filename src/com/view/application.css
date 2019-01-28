@@ -14,20 +14,7 @@ Label{
 -fx-font-size:15px;
 
 }
-ImageView{
 
-
-}
-.dialog-pane{
-	
-}
-.jfx-textarea{
-
-	
-	
-	 
-	 
-}
 
 
 .jfx-button{
@@ -40,9 +27,7 @@ ImageView{
    -fx-font-size:15px;
   
 }
-.gridpane{
 
-}
 VBox{
 -fx-background-color:"#e5e5e5e5";
 
