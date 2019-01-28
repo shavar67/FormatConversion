@@ -1,3 +1,5 @@
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/shavar67/FormatConversion?branch=master)](https://bettercodehub.com/)
 #### BinaryFx
 * Initially used to convert from binary to decimal and vice versa.
 * Functionality extended to support more formats.
