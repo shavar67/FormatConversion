@@ -1,5 +1,8 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/shavar67/formatconversion/badge)](https://www.codefactor.io/repository/github/shavar67/formatconversion)
 [![BCH compliance](https://bettercodehub.com/edge/badge/shavar67/FormatConversion?branch=master)](https://bettercodehub.com/)
+![](https://img.shields.io/github/contributors/shavar67/FormatConversion.svg)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/shavar67/ama)
+![](https://img.shields.io/github/issues/shavar67/FormatConversion.svg)
 #### BinaryFx
 * Initially used to convert from binary to decimal and vice versa.
 * Functionality extended to support more formats.
