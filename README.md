@@ -1,4 +1,4 @@
-
+[![CodeFactor](https://www.codefactor.io/repository/github/shavar67/formatconversion/badge)](https://www.codefactor.io/repository/github/shavar67/formatconversion)
 [![BCH compliance](https://bettercodehub.com/edge/badge/shavar67/FormatConversion?branch=master)](https://bettercodehub.com/)
 #### BinaryFx
 * Initially used to convert from binary to decimal and vice versa.
