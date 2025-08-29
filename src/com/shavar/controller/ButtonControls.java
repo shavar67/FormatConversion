@@ -7,17 +7,17 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 
 /**
- * When an index in the combo-box is selected the program uses a switch
- * statement to check the position of the index if the index selected is the
- * same as the case in the switch statement that method within that case is
- * executed, while that is true i've also written other snippet of code that
- * will covert to the other formats.
+ * When an index in the combo-box is selected, the program uses a switch
+ * statement to check the position of the index. If the index selected is the
+ * same as the case in the switch statement, that method within that case is
+ * executed. While that is true, I’ve also written other snippets of code that
+ * will convert to the other formats.
  * 
  * 
  * Model class somewhat implemented. Alerts will be used for our exception
- * handling to give the user feedback On how to use the application
+ * handling to give the user feedback on how to use the application.
  * 
- * 9/11/18 The model class is being implemented
+ * 9/11/18: The model class is being implemented.
  * 
  */
 public class ButtonControls {
